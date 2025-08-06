@@ -3,7 +3,6 @@ tags:
   - Characters/NPC
   - Division/Command
   - DepartmentHead
-Century: 23
 location: "[[Narendra Station Season 1]]"
 ---
 ## Summary
